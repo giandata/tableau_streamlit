@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import streamlit.components.v1 as components
 
-st.title("Airport Path PoC")
+st.title("Embed Tableau in Streamlit App PoC")
 
 def main():
     html_temp = """<div class='tableauPlaceholder'
